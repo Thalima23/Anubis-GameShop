@@ -23,7 +23,7 @@ function Home() {
                 >
                     <h2
                         className="text-5xl font-bold"
-                    >Seja Bem Vinde!</h2>
+                    >Anubis Game Shop</h2>
                     <p
                         className="text-xl"
                     > O game que você procura está aqui! :) </p>
