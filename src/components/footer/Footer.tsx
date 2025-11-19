@@ -10,7 +10,7 @@ function Footer() {
             <div className="flex justify-center bg-amber-800 text-white">
                 <div className="container flex flex-col items-center py-4">
                     <p className='text-xl font-bold'>
-                            Blog Pessoal Generation | Copyright: {data}
+                             Anubis Game Shop | Generation Brasil | Copyright: {data}
                         </p>
                     <p className='text-lg'>Acesse nossas redes sociais</p>
                     <div className='flex gap-2'>

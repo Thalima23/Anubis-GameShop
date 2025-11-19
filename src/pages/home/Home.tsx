@@ -21,6 +21,7 @@ function Home() {
                     className="flex flex-col gap-4 items-center justify-center py-4"
 
                 >
+                    
                     <h2
                         className="text-5xl font-bold"
                     >Anubis Game Shop</h2>
@@ -35,9 +36,18 @@ function Home() {
                     >
                         <div
                             className="rounded text-white border-white border-solid border-2 py-2 px-4"
-                        >Nova Postagem</div>
+                        >Novo Produto</div>
+                        
                     </div>
+                      {/* 👉 IMAGEM AQUI 👇 */}
+                    <img
+                        src="https://ik.imagekit.io/Thalima23/Copilot_20251119_054208.png"
+                        alt="Cachorrinho acenando"
+                        className="w-35"  // ajuste o tamanho como quiser
+                    />
                 </div>
+
+                
                 {/*Essa é minha coluna da direita*/}
                 <div
                     className="flex justify-center"
